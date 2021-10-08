@@ -1,0 +1,41 @@
+/* ----------------------- BACKGROUND IMAGE -----------------------*/
+.wrapper {
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+body {
+  background-image: url("../images/saturn_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center center;
+
+  color: white;
+  font-weight: bold;
+}
+
+/* ----------------------- CARDS -----------------------*/
+.card-container {
+  color: white;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.1);
+  margin: 5% 0;
+}
+
+.card a {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  padding: 3%;
+}
+
+.card a:hover {
+  color: blue;
+  background-color: lightblue;
+  text-decoration: none;
+}

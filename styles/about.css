@@ -1,0 +1,66 @@
+/* ----------------------- ABOUT ME MAIN -----------------------*/
+#profile-pic {
+  border-radius: 50%;
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+/* profile pic responsiveness */
+@media (max-width: 767px) {
+  #profile-pic {
+    width: 60%;
+    height: auto;
+  }
+}
+
+.blurb {
+  margin: 5% 0;
+}
+
+/* ----------------------- RANDOM INTERESTS CARDS -----------------------*/
+.card-container {
+  margin: 5% 0;
+  color: white;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.1);
+  margin: 5% 0;
+}
+
+.card a {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding: 3%;
+}
+
+.card a:hover {
+  color: blue;
+  background-color: lightblue;
+  text-decoration: none;
+}
+
+/* ----------------------- BACKGROUND IMAGE -----------------------*/
+/* wrapper for opacity for white font readability*/
+.wrapper {
+  background: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-image: url("../images/earth_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center center;
+  color: white;
+  font-weight: bold;
+}

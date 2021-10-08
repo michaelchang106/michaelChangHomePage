@@ -1,0 +1,247 @@
+/* ----------------------- BACKGROUND IMAGE -----------------------*/
+/* wrapper for opacity for white font readability*/
+.wrapper {
+  background: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("../images/mars_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center center;
+  color: white;
+  font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+  body {
+    background-size: auto 100%;
+  }
+}
+/* ---------------- TIMELINE IDEA FROM: https://www.bootdey.com/snippets/view/timeline-events------------ */
+
+.timeline {
+  border-left: 3px solid #727cf5;
+  margin: 0 auto;
+  padding: 5%;
+  max-width: 80%;
+}
+
+.timeline h1 {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.timeline h2 {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.timeline p {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+/* ----------------------EACH ENTRY IN TIME LINE ---------------------- */
+/* create bottom dashed border and spacing*/
+.timeline .entry {
+  border-bottom: 1px dashed white;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+  position: relative;
+}
+
+/* last div of entry doesnt have spacing or dashed border*/
+.timeline .entry:last-of-type {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: none;
+}
+
+/* ----------------------TIME LINE MEDIA SIZE ADJUSTMENTS ---------------------- */
+/*change padding and max width on the sides*/
+@media (max-width: 1199px) {
+  .timeline {
+    padding: 25px 0px 25px 48px;
+    margin-right: 5%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .timeline {
+    padding: 25px 0px 25px 48px;
+    margin-right: 5%;
+  }
+}
+
+@media (max-width: 991px) {
+  .timeline {
+    padding: 25px 0px 25px 48px;
+    margin-right: 5%;
+  }
+}
+
+@media (max-width: 767px) {
+  .timeline {
+    margin-left: 10%;
+    max-width: 85%;
+    padding: 25px 0px 25px 25px;
+  }
+}
+
+/*increase padding on the top*/
+@media (max-width: 767px) {
+  .timeline .entry {
+    padding-top: 30px;
+  }
+}
+
+/* ---------------------- YEAR ADJUSTMENTS ---------------------- */
+
+/*move the position of the before div and after 
+div so that it is absolute but still displays in block*/
+.timeline .entry:before {
+  position: absolute;
+  display: block;
+}
+
+/* build the year*/
+.timeline .entry:before {
+  left: -27%;
+  content: attr(data-year);
+  text-align: right;
+  font-size: 0.9em;
+  min-width: 120px;
+}
+
+/*move YEAR on smaller displays*/
+
+@media (max-width: 1199px) {
+  .timeline .entry:before {
+    left: -28%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .timeline .entry:before {
+    left: -27.5%;
+  }
+}
+
+@media (max-width: 991px) {
+  .timeline .entry:before {
+    left: -40%;
+  }
+}
+
+@media (max-width: 767px) {
+  .timeline .entry:before {
+    padding-left: 37%;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    top: 0;
+  }
+}
+
+/* ----------------------BULLET POINT ----------------------*/
+
+.timeline .entry:after {
+  position: absolute;
+  display: block;
+}
+
+.timeline .entry:after {
+  box-shadow: 0 0 0 3px #727cf5;
+  background: #fff;
+  border: solid;
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+  content: "";
+  top: 2%;
+  left: -8.1%;
+}
+
+/*media adjustments*/
+@media (max-width: 1199px) {
+  .timeline .entry:after {
+    left: -7.9%;
+  }
+}
+
+@media (max-width: 991px) {
+  .timeline .entry:after {
+    left: -10.8%;
+  }
+}
+
+@media (max-width: 767px) {
+  .timeline .entry:after {
+    left: -7.8%;
+  }
+}
+
+@media (max-width: 525px) {
+  .timeline .entry:after {
+    left: -8.4%;
+  }
+}
+
+@media (max-width: 500px) {
+  .timeline .entry:after {
+    left: -9%;
+  }
+}
+
+@media (max-width: 475px) {
+  .timeline .entry:after {
+    left: -9.3%;
+  }
+}
+
+@media (max-width: 428px) {
+  .timeline .entry:after {
+    left: -10.5%;
+  }
+}
+
+@media (max-width: 390px) {
+  .timeline .entry:after {
+    left: -12.2%;
+  }
+}
+
+/* ----------------------LOGOS ---------------------- */
+
+/*adjust logos*/
+.logo-div .logo {
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+@media (max-width: 1023px) {
+  .logo-div .logo {
+    width: 75%;
+    height: auto;
+    object-fit: contain;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .logo-div .logo {
+    width: 40%;
+    height: auto;
+    object-fit: contain;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
