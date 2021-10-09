@@ -1,8 +1,16 @@
 /* ----------------------- BACKGROUND IMAGE -----------------------*/
 .wrapper {
-  height: 100%;
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
   background: rgba(0, 0, 0, 0.7);
+}
+
+
+@media (max-width: 850px) {
+  .wrapper {
+    height: 100%;
+    width: 100%;
+  }
 }
 
 body {
