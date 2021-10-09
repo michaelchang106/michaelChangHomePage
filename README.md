@@ -1,14 +1,14 @@
-# Michael Chang's Homepage
+<h1>Michael Chang's Homepage</h1>
 
-## Author: Michael Chang
+<h2>## Author: Michael Chang</h2>
 
-## Web Development Class: 
-[NEU Web Dev CS5610 -- Fall 2021](https://johnguerra.co/classes/webDevelopment_fall_2021/){target="_blank"}
+<h2>## Web Development Class: </h2>
+<a href="https://johnguerra.co/classes/webDevelopment_fall_2021/" target="_blank">NEU Web Dev CS5610 -- Fall 2021</a>
 
-## Project Objective: 
+<h2>## Project Objective: </h2>
 Create a personal homepage to display my bio, work/education, portfolio, and contact info.
 
-## Project screen shots:
+<h2>## Project screen shots:</h2>
 <p float="left">
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" alt="homepage screenshot" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" alt="about me screenshot" width="200" height="auto">
@@ -17,16 +17,15 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page.png" alt="contact screenshot" width="200" height="auto">
 </p>
 
-## Installation and open guide:
+<h2>## Installation and open guide:</h2>
 
-### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm){:target="_blank"}
+<h3>Install <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" target="_blank">Node.js</a></h3>
 
 * npm install -g npm
 
-### Install [reload](https://www.npmjs.com/package/reload){target="_blank"}
-* npm install [-g] [--save-dev] reload
+<h3>Install <a href="https://www.npmjs.com/package/reload" target="_blank">reload</a></h3>
 
-### Download my Github code and run with reload
+<h3>Download my Github code and run with reload</h3>
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/download_github_code.png" alt="contact screenshot" width="400" height="auto">
@@ -40,13 +39,13 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 <!--
 ### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
 
-## Presentation: 
+<h2>## Presentation: </h2>
 Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing){target="_blank"}
 
-## Deployed on: 
+<h2>## Deployed on: </h2>
 My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/){target="_blank"}
 
-## Contents: 
+<h2>## Contents: </h2>
 Files and folder for my homepage in this repo:
 * images 
 * scripts
