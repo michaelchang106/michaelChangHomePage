@@ -25,6 +25,8 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 
 <h3>Install <a href="https://www.npmjs.com/package/reload" target="_blank">reload</a></h3>
 
+* npm install [-g] [--save-dev] reload
+
 <h3>Download my Github code and run with reload</h3>
 
 <p float="left">
