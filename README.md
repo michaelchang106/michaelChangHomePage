@@ -17,6 +17,8 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page.png" alt="contact screenshot" width="200" height="auto">
 </p>
 
+## Installation and open guide:
+
 ### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 * npm install -g npm
@@ -38,10 +40,13 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 <!--
 ### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
 
-### Presentation: Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing)
+## Presentation: 
+Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing)
 
-### Deployed on: My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/)
+## Deployed on: 
+My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/)
 
+## Contents: 
 Files and folder for my homepage in this repo:
 * images 
 * scripts
