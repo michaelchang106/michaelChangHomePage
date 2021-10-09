@@ -47,6 +47,7 @@ My homepage is deployed on <a href="https://michaelchang106.github.io/michaelCha
 
 <h2>Contents: </h2>
 Files and folder for my homepage in this repo:
+
 * images 
 * scripts
 * styles
