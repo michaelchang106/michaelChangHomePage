@@ -3,7 +3,7 @@
 ## Author: Michael Chang
 
 ## Web Development Class: 
-[NEU Web Dev CS5610 -- Fall 2021](https://johnguerra.co/classes/webDevelopment_fall_2021/)
+[NEU Web Dev CS5610 -- Fall 2021](https://johnguerra.co/classes/webDevelopment_fall_2021/){:target="_blank"}
 
 ## Project Objective: 
 Create a personal homepage to display my bio, work/education, portfolio, and contact info.
@@ -19,11 +19,11 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 
 ## Installation and open guide:
 
-### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm){:target="_blank"}
 
 * npm install -g npm
 
-### Install [reload](https://www.npmjs.com/package/reload)
+### Install [reload](https://www.npmjs.com/package/reload){:target="_blank"}
 * npm install [-g] [--save-dev] reload
 
 ### Download my Github code and run with reload
@@ -41,10 +41,10 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 ### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
 
 ## Presentation: 
-Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing)
+Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing){:target="_blank"}
 
 ## Deployed on: 
-My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/)
+My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/){:target="_blank"}
 
 ## Contents: 
 Files and folder for my homepage in this repo:
