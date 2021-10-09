@@ -1,2 +1,66 @@
-# michaelChangHomePage
-My first website for my web development class
+# Michael Chang's Homepage
+
+## Author: Michael Chang
+
+## Web Development Class: [Class link](https://johnguerra.co/classes/webDevelopment_fall_2021/)
+
+## Project Objective: Create a personal homepage to display my bio, work/education, portfolio, and contact info.
+
+## Project screen shots:
+![homepage screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_homepage_landing.png?raw=true)
+![about me screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_about_me_page.png?raw=true)
+![experience screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_experience_page.png?raw=true)
+![portfolio screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_portfolio_page.png?raw=true)
+![contact screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_contact_page.png?raw=true)
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" width="100" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" width="100" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_experience_page.png" width="100" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_portfolio_page.png" width="100" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page" width="100" height="auto">
+
+
+### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+* npm install -g npm
+
+### Install [reload](https://www.npmjs.com/package/reload)
+* npm install [-g] [--save-dev] reload
+
+### Download my Github code [screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/download_github_code.png?raw=true)
+
+* Navigate to the directory you downloaded the zip and unzip the file
+* Navigate to the directory you downloaded and open the unzipped folder in terminal and type "reload -b"
+
+### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.
+
+### Presentation: Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing)
+
+
+### Deployed on: My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/)
+
+
+Files and folder for my homepage in this repo:
+
+* images 
+* scripts
+* styles
+* eslintrc.js
+* index.html
+* about.html
+* experience.html
+* portfolio.html
+* contact.html
+* package.json
+* package-lock.json
+
+images - folder containing all the images used; including background images
+scripts - folder containing all the Javascript functionality code
+sytles - folder containing all the CSS styling for my pages
+eslintrc.js - confg info for the project
+index.html - my home landing page
+about.html - the about me page
+experience.html - page for my work experience and education
+portfolio.html - the portfolio page for my computer science projects
+contact.html - my contact info page
+package.json - metadata and dependencies for my project
+package-lock.json - version dependencies
