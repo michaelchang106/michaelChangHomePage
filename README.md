@@ -1,14 +1,14 @@
 <h1>Michael Chang's Homepage</h1>
 
-<h2>## Author: Michael Chang</h2>
+<h2>Author: Michael Chang</h2>
 
-<h2>## Web Development Class: </h2>
+<h2>Web Development Class: </h2>
 <a href="https://johnguerra.co/classes/webDevelopment_fall_2021/" target="_blank">NEU Web Dev CS5610 -- Fall 2021</a>
 
-<h2>## Project Objective: </h2>
+<h2>Project Objective: </h2>
 Create a personal homepage to display my bio, work/education, portfolio, and contact info.
 
-<h2>## Project screen shots:</h2>
+<h2>Project screen shots:</h2>
 <p float="left">
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" alt="homepage screenshot" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" alt="about me screenshot" width="200" height="auto">
@@ -17,7 +17,7 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
   <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page.png" alt="contact screenshot" width="200" height="auto">
 </p>
 
-<h2>## Installation and open guide:</h2>
+<h2>Installation and open guide:</h2>
 
 <h3>Install <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" target="_blank">Node.js</a></h3>
 
@@ -34,18 +34,18 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 
 * Navigate to the directory you downloaded the zip and unzip the file
 * Navigate to the directory you downloaded and open the unzipped folder in terminal and type "reload -b"
-* The website should open in you default browser on http://localhost:8080/
+* The website should open in you default browser on <link>http://localhost:8080/</link>
 
 <!--
-### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
+#Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
 
-<h2>## Presentation: </h2>
-Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing){target="_blank"}
+<h2>Presentation: </h2>
+Put together a presentation on <a href="https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing" target="_blank">Google Slides</a>
 
-<h2>## Deployed on: </h2>
-My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/){target="_blank"}
+<h2>Deployed on: </h2>
+My homepage is deployed on <a href="https://michaelchang106.github.io/michaelChangHomePage/" target="_blank">GitHub</a>
 
-<h2>## Contents: </h2>
+<h2>Contents: </h2>
 Files and folder for my homepage in this repo:
 * images 
 * scripts
