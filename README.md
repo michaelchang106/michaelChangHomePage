@@ -7,16 +7,11 @@
 ## Project Objective: Create a personal homepage to display my bio, work/education, portfolio, and contact info.
 
 ## Project screen shots:
-![homepage screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_homepage_landing.png?raw=true)
-![about me screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_about_me_page.png?raw=true)
-![experience screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_experience_page.png?raw=true)
-![portfolio screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_portfolio_page.png?raw=true)
-![contact screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/mc_contact_page.png?raw=true)
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" width="100" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" width="100" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_experience_page.png" width="100" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_portfolio_page.png" width="100" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page" width="100" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" alt="homepage screenshot" width="200" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" alt="about me screenshot" width="200" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_experience_page.png" alt="experience screenshot" width="200" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_portfolio_page.png" alt="portfolio screenshot" width="200" height="auto">
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page.png" alt="contact screenshot" width="200" height="auto">
 
 
 ### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
@@ -26,7 +21,9 @@
 ### Install [reload](https://www.npmjs.com/package/reload)
 * npm install [-g] [--save-dev] reload
 
-### Download my Github code [screenshot](https://github.com/michaelchang106/michaelChangHomePage/blob/main/images/download_github_code.png?raw=true)
+### Download my Github code
+
+<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/download_github_code.png" alt="contact screenshot" width="400" height="auto">
 
 * Navigate to the directory you downloaded the zip and unzip the file
 * Navigate to the directory you downloaded and open the unzipped folder in terminal and type "reload -b"
@@ -35,12 +32,9 @@
 
 ### Presentation: Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing)
 
-
 ### Deployed on: My homepage is deployed on [GitHub](https://michaelchang106.github.io/michaelChangHomePage/)
 
-
 Files and folder for my homepage in this repo:
-
 * images 
 * scripts
 * styles
@@ -53,14 +47,14 @@ Files and folder for my homepage in this repo:
 * package.json
 * package-lock.json
 
-images - folder containing all the images used; including background images
-scripts - folder containing all the Javascript functionality code
-sytles - folder containing all the CSS styling for my pages
-eslintrc.js - confg info for the project
-index.html - my home landing page
-about.html - the about me page
-experience.html - page for my work experience and education
-portfolio.html - the portfolio page for my computer science projects
-contact.html - my contact info page
-package.json - metadata and dependencies for my project
-package-lock.json - version dependencies
+images - folder containing all the images used; including background images  
+scripts - folder containing all the Javascript functionality code  
+sytles - folder containing all the CSS styling for my pages  
+eslintrc.js - confg info for the project  
+index.html - my home landing page  
+about.html - the about me page  
+experience.html - page for my work experience and education  
+portfolio.html - the portfolio page for my computer science projects  
+contact.html - my contact info page  
+package.json - metadata and dependencies for my project  
+package-lock.json - version dependencies  
