@@ -7,12 +7,13 @@
 ## Project Objective: Create a personal homepage to display my bio, work/education, portfolio, and contact info.
 
 ## Project screen shots:
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" alt="homepage screenshot" width="200" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" alt="about me screenshot" width="200" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_experience_page.png" alt="experience screenshot" width="200" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_portfolio_page.png" alt="portfolio screenshot" width="200" height="auto">
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page.png" alt="contact screenshot" width="200" height="auto">
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_homepage_landing.png" alt="homepage screenshot" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_about_me_page.png" alt="about me screenshot" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_experience_page.png" alt="experience screenshot" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_portfolio_page.png" alt="portfolio screenshot" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/mc_contact_page.png" alt="contact screenshot" width="200" height="auto">
+</p>
 
 ### Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
