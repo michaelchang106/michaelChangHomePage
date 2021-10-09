@@ -22,14 +22,19 @@
 ### Install [reload](https://www.npmjs.com/package/reload)
 * npm install [-g] [--save-dev] reload
 
-### Download my Github code
+### Download my Github code and run with reload
 
-<img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/download_github_code.png" alt="contact screenshot" width="400" height="auto">
+<p float="left">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/download_github_code.png" alt="contact screenshot" width="400" height="auto">
+  <img src="https://raw.githubusercontent.com/michaelchang106/michaelChangHomePage/main/images/reload_terminal.png" alt="contact screenshot" width="400" height="auto">
+</p>
 
 * Navigate to the directory you downloaded the zip and unzip the file
 * Navigate to the directory you downloaded and open the unzipped folder in terminal and type "reload -b"
+* The website should open in you default browser on http://localhost:8080/
 
-### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.
+<!--
+### Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
 
 ### Presentation: Put together a presentation on [Google Slides](https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing)
 
