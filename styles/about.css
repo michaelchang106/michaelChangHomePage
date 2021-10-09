@@ -1,3 +1,23 @@
+/* ----------------------- BACKGROUND IMAGE -----------------------*/
+/* wrapper for opacity for white font readability*/
+.wrapper {
+  background: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  background-image: url("../images/earth_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center center;
+  color: white;
+  font-weight: bold;
+}
+
 /* ----------------------- ABOUT ME MAIN -----------------------*/
 #profile-pic {
   border-radius: 50%;
@@ -45,22 +65,4 @@
   text-decoration: none;
 }
 
-/* ----------------------- BACKGROUND IMAGE -----------------------*/
-/* wrapper for opacity for white font readability*/
-.wrapper {
-  background: rgba(0, 0, 0, 0.7);
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
 
-body {
-  background-image: url("../images/earth_background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-  background-position: center center;
-  color: white;
-  font-weight: bold;
-}
