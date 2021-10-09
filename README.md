@@ -2,9 +2,11 @@
 
 ## Author: Michael Chang
 
-## Web Development Class: [Class link](https://johnguerra.co/classes/webDevelopment_fall_2021/)
+## Web Development Class: 
+[NEU Web Dev CS5610 -- Fall 2021](https://johnguerra.co/classes/webDevelopment_fall_2021/)
 
-## Project Objective: Create a personal homepage to display my bio, work/education, portfolio, and contact info.
+## Project Objective: 
+Create a personal homepage to display my bio, work/education, portfolio, and contact info.
 
 ## Project screen shots:
 <p float="left">
