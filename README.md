@@ -38,11 +38,11 @@ Create a personal homepage to display my bio, work/education, portfolio, and con
 * Navigate to the directory you downloaded and open the unzipped folder in terminal and type "reload -b"
 * The website should open in you default browser on <link>http://localhost:8080/</link>
 
-<!--
-#Demonstration: In [this](https://youtu.be/IE_rhDV3S2I) YouTube video I give a quick demeonstration of my website and some of its features.-->
+<h2>YouTube video demo:</h2> 
+A short <a href="https://youtu.be/N8OE8ih1ylg" target="_blank">YouTube video</a> of me demonstrating my project features and just talking about my development/learning experience of this project.
 
 <h2>Presentation: </h2>
-Put together a presentation on <a href="https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing" target="_blank">Google Slides</a>
+Put together a presentation for this project on <a href="https://docs.google.com/presentation/d/1cP43tnNqBElpOA78YLprEI56y0eBUEhre6AsT7dmPtk/edit?usp=sharing" target="_blank">Google Slides</a>
 
 <h2>Deployed on: </h2>
 My homepage is deployed on <a href="https://michaelchang106.github.io/michaelChangHomePage/" target="_blank">GitHub</a>
