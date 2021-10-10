@@ -1,121 +1,119 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head lang="en">
     <meta charset="utf-8" />
-    <link rel="icon" href="./images/waving_icon.png" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <meta
-      name="description"
-      content="Michael Chang's homepage so you can get to know his background and see his work"
-    />
-    <meta name="keywords" content="HTML, CSS, JavaScript" />
-    <meta name="author" content="Michael Chang" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Kaitlyn Tian" />
+    <meta name="desciption" content="my personal homepage" />
+    <title>Kaitlyn's Profolio Hub</title>
 
-    <!-- Bootstrap CSS -->
+    <!-- My css stylesheet -->
+
+    <link href="styles/style.css" rel="stylesheet" />
+
+    <!-- Bootstrap addon -->
     <link
-      type="text/css"
       rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     />
-
-    <!-- Material Icon CDN -->
-    <link
-      type="text/css"
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet"
-    />
-
-    <!-- custom CSS -->
-    <link type="text/css" rel="stylesheet" href="./styles/index.css" />
-    <link type="text/css" rel="stylesheet" href="./styles/main.css" />
-
-    <title>Michael Chang</title>
   </head>
 
   <body>
-    <div class="wrapper d-flex align-items-center justify-content-center">
-      <div class="container">
-        <!--Intro-->
-        <section class="intro">
-          <div class="row">
-            <h1>Michael Chang</h1>
-          </div>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+      <div class="container-fluid">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="./index.html"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="./experience.html">Experiences</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="./project.html">Project</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
 
-          <div class="row">
-            <h2>I am an <s>accountant</s> aspiring software engineer</h2>
-          </div>
-        </section>
-        <!--Nav bar-->
-        <div class="row nav-links">
-          <div
-            class="
-              col-6 col-md-4 col-lg-2
-              d-flex
-              justify-content-center
-              align-items-center
-              link-container
-            "
-          >
-            <a href="./index.html">Home</a>
-          </div>
-          <div
-            class="
-              col-6 col-md-4 col-lg-2
-              d-flex
-              justify-content-center
-              align-items-center
-              link-container
-            "
-          >
-            <a href="./about.html">About</a>
-          </div>
-          <div
-            class="
-              col-6 col-md-4 col-lg-2
-              d-flex
-              justify-content-center
-              align-items-center
-              link-container
-            "
-          >
-            <a href="./experience.html">Experience</a>
-          </div>
-          <div
-            class="
-              col-6 col-md-4 col-lg-2
-              d-flex
-              justify-content-center
-              align-items-center
-              link-container
-            "
-          >
-            <a href="./portfolio.html">Portfolio</a>
-          </div>
-          <div
-            class="
-              col-6 col-md-4 col-lg-2
-              d-flex
-              justify-content-center
-              align-items-center
-              link-container
-            "
-          >
-            <a href="./contact.html">Contact</a>
-          </div>
+    <header class="outer-header">
+      <div>
+        <img
+          src="images/personal_pic.jpg"
+          class="img-responsive header-image"
+          alt="a picture of my back"
+        />
+      </div>
+
+      <div class="inner-header">
+        <div class="header-text">
+          <h1 style="font-size: 70px" class="text-left font-weight-bold">
+            Kaiwen
+          </h1>
+          <h1 style="font-size: 70px" class="text-left font-weight-bold">
+            (Kaitlyn) Tian
+          </h1>
+          <h2 class="text-left">Welcome to my virtual crib</h2>
+          <a href="https://www.linkedin.com/in/kaitlyntian/" target="_blank">
+            <img
+              src="images/linkedin_logo.png"
+              class="img-responsive logo"
+              alt="a linkedin logo"
+          /></a>
+          <a href="https://github.com/kaitlyntian" target="_blank">
+            <img
+              src="images/github_logo.png"
+              class="img-responsive logo"
+              alt="a github logo"
+          /></a>
         </div>
       </div>
-    </div>
+    </header>
 
-    <!-- Bootstrap script -->
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ"
-      crossorigin="anonymous"
-    ></script>
+    <main>
+      <!-- Introduction -->
+      <section class="container">
+        <br />
+        <div class="row">
+          <h2 class="subtitle text-left pr-5 col-sm-auto mw-50">About Me</h2>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <img
+              class="float-right"
+              id="casual_img"
+              src="images/casual.jpg"
+              alt="A casual picture of mine"
+            />
+            <p>
+              I am an undergraduate at Northeastern University working towards a
+              bachelor’s degree in Computer Science and Entrepreneurship.<br /><br />
+              I‘m passionate about innovative and socially responsible
+              companies! On-campus, I'm involved with IDEA, NUImpact, and Tamid
+              to expand my influence on helping good-purposed companies to grow
+              into making betterment for the world.<br /><br />
+              I do Data Science and Computer Science! I love extracting
+              conclusions from statistical patterns. Every Data Science problem
+              is an exciting challenging journey for me. I would like to think
+              I'm a good friend with numbers!<br /><br />
+              I'm graduating in the summer of 2022 and looking forward to the
+              world ahead of me from school.
+            </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <h2 class="subtitle col-sm-12 text-left pr-5">Contact Email</h2>
+        </div>
+        <div class="row pl-4 pr-5">tian.ka@northeastern.edu</div>
+
+        <br />
+      </section>
+    </main>
+
+    <hr />
+    <footer>Made by Kaitlyn Tian👧</footer>
   </body>
 </html>
